@@ -1,0 +1,103 @@
+# List of SDK dependencies of this app, this information is also included in an encrypted form in the APK.
+# For more information visit: https://d.android.com/r/tools/dependency-metadata
+
+library {
+  maven_library {
+    artifactId: "com.android.installreferrer.installreferrer-2.1"
+  }
+  digests {
+    sha256: "s\"\345\207\213\374\032~}8\212\224\275\255\177\270\241\363MCt\210\367\375^<\331\002?\261\r+"
+  }
+}
+library {
+  maven_library {
+    artifactId: "com.appsflyer.unity-wrapper-6.8.2"
+  }
+  digests {
+    sha256: "\2029\374\"\002\376\346[\360t\315\222\300\206\033\313 ?\205L\r\316WU\316\255\350\ta\021\220\321"
+  }
+}
+library {
+  maven_library {
+    artifactId: "com.appsflyer.af-android-sdk-6.8.2"
+  }
+  digests {
+    sha256: "\222\374\260:C\305\023p.\222e\ra\236\233M\032\373hL\331\264\260\022W\3349\345\275)\357b"
+  }
+}
+library {
+  maven_library {
+    artifactId: "com.appsflyer.oaid-6.2.4"
+  }
+  digests {
+    sha256: "C\200\307Y\366,{:A\000b\265\363>\351\235\000\277<\036\356\034\224\f\360\b 2\213\353#\234"
+  }
+}
+library {
+  digests {
+    sha256: "\a\230\272\236\371\336\352\347\370\200\v:\022\367\357\256\343F\360\256\332\3608\351\370\006\243\252\301\353\240\344"
+  }
+}
+library {
+  digests {
+    sha256: "\254\342\241\r\310\342\325\3754\222^\312\300>I\210\262\300\370Qe\f\224\270\316\364\233\241\275\021\024x"
+  }
+}
+library {
+  digests {
+    sha256: "\024V\330-\003\236\243\r\204\205\2602\220\037R\273\360~|\333\350\273\037\207\b\2552\250WLA\316"
+  }
+}
+library {
+  digests {
+    sha256: "S\005\367\244\336\347\246\313y\242\234%\212\312\223\336G\264\225\210\246\337\306\332\001\275\207rX\236\246l"
+  }
+}
+library {
+  digests {
+    sha256: "*\355\315\306\266\2333\275\365\314#[\316\250\216|\366`\021F\273k\315\377\3331+\272\315{\342a"
+  }
+}
+library {
+  digests {
+    sha256: "(\r\335\t\224\344V\f\232I\356\201\301\260G\335\302\270\362\027aYGPf\002[GK7\357\375"
+  }
+}
+library_dependencies {
+}
+library_dependencies {
+  library_index: 1
+}
+library_dependencies {
+  library_index: 2
+}
+library_dependencies {
+  library_index: 3
+}
+library_dependencies {
+  library_index: 4
+}
+library_dependencies {
+  library_index: 5
+}
+library_dependencies {
+  library_index: 6
+}
+library_dependencies {
+  library_index: 7
+}
+library_dependencies {
+  library_index: 8
+}
+library_dependencies {
+  library_index: 9
+}
+module_dependencies {
+  module_name: "base"
+  dependency_index: 4
+  dependency_index: 5
+  dependency_index: 6
+  dependency_index: 7
+  dependency_index: 8
+  dependency_index: 9
+}

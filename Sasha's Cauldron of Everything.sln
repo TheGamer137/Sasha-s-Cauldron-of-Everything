@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCropper.Runtime", "ImageCropper.Runtime.csproj", "{46f8d067-fe51-c60f-e079-b817d2a1a7f3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-firstpass", "Assembly-CSharp-firstpass.csproj", "{58ef8d09-0364-701d-feb1-6a09195e96c2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7736836d-4db8-5838-1a03-930f6fe2ebad}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor-firstpass", "Assembly-CSharp-Editor-firstpass.csproj", "{fb4a9ff3-78db-8547-b7c6-75bf1b386693}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46f8d067-fe51-c60f-e079-b817d2a1a7f3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46f8d067-fe51-c60f-e079-b817d2a1a7f3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58ef8d09-0364-701d-feb1-6a09195e96c2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58ef8d09-0364-701d-feb1-6a09195e96c2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7736836d-4db8-5838-1a03-930f6fe2ebad}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7736836d-4db8-5838-1a03-930f6fe2ebad}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{fb4a9ff3-78db-8547-b7c6-75bf1b386693}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{fb4a9ff3-78db-8547-b7c6-75bf1b386693}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
